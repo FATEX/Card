@@ -1,0 +1,5 @@
+C:\Users\Zeying\AndroidstudioProjects\PhoneSignature\app\build\intermediates\classes\debug
+C:\Users\Zeying\AndroidstudioProjects\PhoneSignature\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-7aabf0669f893b8b615c5ae79520c0588cce8139.jar
+C:\Users\Zeying\AndroidstudioProjects\PhoneSignature\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-9467775aa6f7ef6e37c6c19f70aaa381fbb0f4de.jar
+C:\Users\Zeying\AndroidstudioProjects\PhoneSignature\app\build\intermediates\pre-dexed\debug\classes-03b91241328f32a8e68693ac021d2a853865746a.jar
+C:\Users\Zeying\AndroidstudioProjects\PhoneSignature\app\build\intermediates\pre-dexed\debug\classes-8c2be8ece39013320fdf65ba5bea9326021430ee.jar
